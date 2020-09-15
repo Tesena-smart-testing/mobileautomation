@@ -25,6 +25,7 @@ Choose emulator (You need just one)
     - `pip install robotframework-appiumlibrary` for install [AppiumLibrary](https://github.com/serhatbolsu/robotframework-appiumlibrary)
 
 ### Install JDK
+ - If you think that you are have java in pc, you can try write to cmd `java -version`. If you see something as `java version "YOUR_VERSION"` you can jump to Install Appium. If you not,  keep going in these guide
  - Go to [JDK](https://www.oracle.com/java/technologies/javase-downloads.html) and download JDK (Click on download on JDK and scroll down)
  - Run the downloaded installer, which install JDK and JRE (Deafult folder is C:\Program Files\Java\jdk-numberOfYourVersion)
  - Now we need include Directory to the path 
